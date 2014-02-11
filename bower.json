@@ -1,0 +1,37 @@
+{
+  "name": "sencha-list-scroll-reset",
+  "version": "0.1.1",
+  "homepage": "https://github.com/kashiro/sencha-list-scroll-reset",
+  "authors": [
+    "Tomoyuki Kashiro <ksrtmyk@gmail.com>"
+  ],
+  "description": "sencha touch plugin to scroll list to top .",
+  "main": "app/ux/touch/ListScrollReset.js",
+  "keywords": [
+    "senchatouch",
+    "scroll",
+    "extjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "Gruntfile.js",
+    "bower.json",
+    "package.json",
+    "app/app",
+    "app/.sencha",
+    "app/app.js",
+    "app/app.json",
+    "app/bootstrap.js",
+    "app/bootstrap.json",
+    "app/build",
+    "app/build.xml",
+    "app/index.html",
+    "app/packager.json",
+    "app/packages",
+    "app/resources",
+    "app/touch",
+    "README.md",
+    "test",
+    ".*"
+  ]
+}
