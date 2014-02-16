@@ -1,6 +1,6 @@
 {
   "name": "sencha-list-scroll-reset",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/kashiro/sencha-list-scroll-reset",
   "authors": [
     "Tomoyuki Kashiro <ksrtmyk@gmail.com>"
@@ -14,6 +14,25 @@
   ],
   "license": "MIT",
   "ignore": [
+    "Gruntfile.js",
+    "bower.json",
+    "package.json",
+    "app/app",
+    "app/.sencha",
+    "app/app.js",
+    "app/app.json",
+    "app/bootstrap.js",
+    "app/bootstrap.json",
+    "app/build",
+    "app/build.xml",
+    "app/index.html",
+    "app/packager.json",
+    "app/packages",
+    "app/resources",
+    "app/ux",
+    "app/touch",
+    "README.md",
+    "test",
     ".*"
   ]
 }
